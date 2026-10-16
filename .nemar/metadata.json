@@ -1,7 +1,7 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Tepper-2017-selection-10.1155/2017/1512504",
+  "title": "Microelectrode recordings (MER) from deep brain stimulation surgery in Parkinson's disease (STN targeting, 14 patients)",
   "description": "Intraoperative microelectrode recordings (MER) from 14 patients with Parkinson's disease undergoing stereotactic implantation of deep brain stimulation electrodes in the subthalamic nucleus. Each depth along the left and/or right trajectory is stored as a separate run with up to three channels. Depths are classified as inside (STN-IN) or outside (STN-OUT) the nucleus. The data are repackaged in iEEG-BIDS from a public Zenodo release without filtering or other signal processing.",
   "methods_description": "Recordings were obtained during DBS surgery at La Fe Hospital (Valencia, Spain) with a microelectrode acquisition system. Each depth yields one file with up to three channels of int16 data. The original MATLAB files were converted losslessly to BrainVision float32 with BIDS sidecars. No filtering, resampling or re-referencing was applied.",
   "license": "CC-BY-4.0",
@@ -94,5 +94,5 @@
     ".vmrk",
     ".yml"
   ],
-  "source_hash": "35cccf02488cba322a4678e09b49550064199dad6a31d1a471f09f181845459d"
+  "source_hash": "1b0ae617bba204a7d21bfdf09d5faa175c0379790a14017e31e14735140f0033"
 }

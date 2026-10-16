@@ -1,5 +1,5 @@
 {
-  "Name": "Tepper-2017-selection-10.1155/2017/1512504",
+  "Name": "Microelectrode recordings (MER) from deep brain stimulation surgery in Parkinson's disease (STN targeting, 14 patients)",
   "BIDSVersion": "1.10.0",
   "DatasetType": "raw",
   "License": "CC-BY-4.0",
@@ -43,5 +43,5 @@
       "CodeURL": "n/a"
     }
   ],
-  "Version": "1.0.1"
+  "Version": "1.0.2"
 }
