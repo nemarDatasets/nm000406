@@ -1,4 +1,4 @@
 name	type	units	low_cutoff	high_cutoff	sampling_frequency	status	status_description	source_n_samples
-Electrode1	SEEG	n/a	n/a	n/a	12019.197264817774	good	n/a	357952
+Electrode1	SEEG	n/a	n/a	n/a	12019.197264817774	bad	near flat: std 9.2 counts (< 100)	357952
 Electrode2	SEEG	n/a	n/a	n/a	12019.197264817774	good	n/a	358704
 Electrode3	SEEG	n/a	n/a	n/a	12019.197264817774	good	n/a	358704

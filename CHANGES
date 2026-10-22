@@ -1,3 +1,5 @@
+1.0.3 2026-10-21
+  - channels.tsv: Electrode1 is marked bad where its std is below 100 counts (692 of 830 files, std 4.6-15.9), with the std in status_description.
 1.0.2 2026-10-16
   - Restore the descriptive Name from v1.0.0 after the v1.0.1 naming regression.
 1.0.0 2026-10-08

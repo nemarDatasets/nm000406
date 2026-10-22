@@ -30,6 +30,8 @@ which of its 14 patients are those 9, so these settings are not copied into the 
   classification (`stn_classification`) and the source path.
 - Three channels per file (`Electrode1`-`Electrode3`, as named in the release; type SEEG, units n/a: the release stores
   int16 values without a scale factor). Channel 1 is close to flat in most files; the release does not say why.
+  Where its std is below 100 counts (692 files, std 4.6-15.9; Electrode2/3: 224-11102 in every file) it is marked `bad`
+  in `channels.tsv`.
 - Sampling frequency per run is computed from the release time vector as (N-1)/time[-1]: 12000 Hz in 432 files and
   about 12019 Hz in the other 398 (exact value per run in the sidecar and in `scans.tsv`).
 - In 226 of the 830 files the three channels have different lengths (differences are whole 752-sample blocks). The
