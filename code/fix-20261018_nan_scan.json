@@ -1,0 +1,2607 @@
+{
+ "sub-01/ieeg/sub-01_task-mer_acq-left_run-01_ieeg.vhdr": {
+  "n_times": 494816,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    493312,
+    494816
+   ]
+  ]
+ },
+ "sub-01/ieeg/sub-01_task-mer_acq-left_run-02_ieeg.vhdr": {
+  "n_times": 503840,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    502336,
+    503840
+   ]
+  ]
+ },
+ "sub-01/ieeg/sub-01_task-mer_acq-left_run-03_ieeg.vhdr": {
+  "n_times": 512864,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    512112,
+    512864
+   ]
+  ]
+ },
+ "sub-01/ieeg/sub-01_task-mer_acq-left_run-04_ieeg.vhdr": {
+  "n_times": 489552,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    488048,
+    489552
+   ]
+  ]
+ },
+ "sub-01/ieeg/sub-01_task-mer_acq-left_run-08_ieeg.vhdr": {
+  "n_times": 513616,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    512864,
+    513616
+   ]
+  ]
+ },
+ "sub-01/ieeg/sub-01_task-mer_acq-left_run-20_ieeg.vhdr": {
+  "n_times": 526400,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504,
+   "Electrode2": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    524896,
+    526400
+   ]
+  ]
+ },
+ "sub-01/ieeg/sub-01_task-mer_acq-left_run-23_ieeg.vhdr": {
+  "n_times": 63168,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504,
+   "Electrode2": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    61664,
+    63168
+   ]
+  ]
+ },
+ "sub-02/ieeg/sub-02_task-mer_acq-left_run-02_ieeg.vhdr": {
+  "n_times": 45120,
+  "sfreq": 12018.95527368494,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504,
+   "Electrode2": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    43616,
+    45120
+   ]
+  ]
+ },
+ "sub-02/ieeg/sub-02_task-mer_acq-left_run-29_ieeg.vhdr": {
+  "n_times": 358704,
+  "sfreq": 12019.19726427378,
+  "nonfinite_per_channel": {
+   "Electrode1": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    357952,
+    358704
+   ]
+  ]
+ },
+ "sub-02/ieeg/sub-02_task-mer_acq-right_run-06_ieeg.vhdr": {
+  "n_times": 609872,
+  "sfreq": 12019.211135444886,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    608368,
+    609872
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-left_run-13_ieeg.vhdr": {
+  "n_times": 466860,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 753,
+   "Electrode2": 753
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    466107,
+    466860
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-left_run-19_ieeg.vhdr": {
+  "n_times": 484932,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 753,
+   "Electrode3": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    483426,
+    484932
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-left_run-22_ieeg.vhdr": {
+  "n_times": 485685,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 753,
+   "Electrode2": 753
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    484932,
+    485685
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-left_run-23_ieeg.vhdr": {
+  "n_times": 559479,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 753
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    558726,
+    559479
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-left_run-26_ieeg.vhdr": {
+  "n_times": 460836,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 753,
+   "Electrode3": 753
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    460083,
+    460836
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-left_run-28_ieeg.vhdr": {
+  "n_times": 530865,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode3": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    529359,
+    530865
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-left_run-29_ieeg.vhdr": {
+  "n_times": 558726,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    557220,
+    558726
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-left_run-30_ieeg.vhdr": {
+  "n_times": 503004,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 753,
+   "Electrode3": 753
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    502251,
+    503004
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-left_run-31_ieeg.vhdr": {
+  "n_times": 491709,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1506,
+   "Electrode2": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    490203,
+    491709
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-left_run-32_ieeg.vhdr": {
+  "n_times": 521076,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    519570,
+    521076
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-left_run-33_ieeg.vhdr": {
+  "n_times": 503004,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1506,
+   "Electrode3": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    501498,
+    503004
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-left_run-36_ieeg.vhdr": {
+  "n_times": 8283,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 753,
+   "Electrode3": 753
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    7530,
+    8283
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-right_run-05_ieeg.vhdr": {
+  "n_times": 402855,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 753
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    402102,
+    402855
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-right_run-06_ieeg.vhdr": {
+  "n_times": 425445,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    423939,
+    425445
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-right_run-09_ieeg.vhdr": {
+  "n_times": 443517,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    442011,
+    443517
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-right_run-10_ieeg.vhdr": {
+  "n_times": 453306,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode3": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    451800,
+    453306
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-right_run-11_ieeg.vhdr": {
+  "n_times": 453306,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1506,
+   "Electrode2": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    451800,
+    453306
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-right_run-12_ieeg.vhdr": {
+  "n_times": 450294,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1506,
+   "Electrode2": 753
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    448788,
+    450294
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-right_run-13_ieeg.vhdr": {
+  "n_times": 460836,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1506,
+   "Electrode3": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    459330,
+    460836
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-right_run-14_ieeg.vhdr": {
+  "n_times": 423939,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 753,
+   "Electrode3": 753
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    423186,
+    423939
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-right_run-17_ieeg.vhdr": {
+  "n_times": 438246,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 753,
+   "Electrode3": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    436740,
+    438246
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-right_run-19_ieeg.vhdr": {
+  "n_times": 479661,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1506,
+   "Electrode3": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    478155,
+    479661
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-right_run-30_ieeg.vhdr": {
+  "n_times": 573786,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 753,
+   "Electrode3": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    572280,
+    573786
+   ]
+  ]
+ },
+ "sub-03/ieeg/sub-03_task-mer_acq-right_run-38_ieeg.vhdr": {
+  "n_times": 32379,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 753
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    31626,
+    32379
+   ]
+  ]
+ },
+ "sub-04/ieeg/sub-04_task-mer_acq-left_run-06_ieeg.vhdr": {
+  "n_times": 485040,
+  "sfreq": 12019.20598539689,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504,
+   "Electrode2": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    483536,
+    485040
+   ]
+  ]
+ },
+ "sub-04/ieeg/sub-04_task-mer_acq-left_run-07_ieeg.vhdr": {
+  "n_times": 443680,
+  "sfreq": 12019.203707242421,
+  "nonfinite_per_channel": {
+   "Electrode1": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    442928,
+    443680
+   ]
+  ]
+ },
+ "sub-04/ieeg/sub-04_task-mer_acq-left_run-13_ieeg.vhdr": {
+  "n_times": 564000,
+  "sfreq": 12019.209475583211,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    562496,
+    564000
+   ]
+  ]
+ },
+ "sub-04/ieeg/sub-04_task-mer_acq-right_run-01_ieeg.vhdr": {
+  "n_times": 584304,
+  "sfreq": 12019.210245562504,
+  "nonfinite_per_channel": {
+   "Electrode1": 752,
+   "Electrode2": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    583552,
+    584304
+   ]
+  ]
+ },
+ "sub-04/ieeg/sub-04_task-mer_acq-right_run-02_ieeg.vhdr": {
+  "n_times": 509856,
+  "sfreq": 12019.20726821348,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    508352,
+    509856
+   ]
+  ]
+ },
+ "sub-04/ieeg/sub-04_task-mer_acq-right_run-04_ieeg.vhdr": {
+  "n_times": 627920,
+  "sfreq": 12019.211701733744,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    626416,
+    627920
+   ]
+  ]
+ },
+ "sub-04/ieeg/sub-04_task-mer_acq-right_run-06_ieeg.vhdr": {
+  "n_times": 109792,
+  "sfreq": 12019.121369223401,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    108288,
+    109792
+   ]
+  ]
+ },
+ "sub-04/ieeg/sub-04_task-mer_acq-right_run-10_ieeg.vhdr": {
+  "n_times": 565504,
+  "sfreq": 12019.209588263104,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    564752,
+    565504
+   ]
+  ]
+ },
+ "sub-04/ieeg/sub-04_task-mer_acq-right_run-13_ieeg.vhdr": {
+  "n_times": 445936,
+  "sfreq": 12019.20388926361,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    445184,
+    445936
+   ]
+  ]
+ },
+ "sub-04/ieeg/sub-04_task-mer_acq-right_run-16_ieeg.vhdr": {
+  "n_times": 610624,
+  "sfreq": 12019.211158558717,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    609872,
+    610624
+   ]
+  ]
+ },
+ "sub-04/ieeg/sub-04_task-mer_acq-right_run-17_ieeg.vhdr": {
+  "n_times": 582800,
+  "sfreq": 12019.21021955945,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    581296,
+    582800
+   ]
+  ]
+ },
+ "sub-04/ieeg/sub-04_task-mer_acq-right_run-19_ieeg.vhdr": {
+  "n_times": 589568,
+  "sfreq": 12019.210456476174,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    588816,
+    589568
+   ]
+  ]
+ },
+ "sub-04/ieeg/sub-04_task-mer_acq-right_run-28_ieeg.vhdr": {
+  "n_times": 384272,
+  "sfreq": 12019.199441302995,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    382768,
+    384272
+   ]
+  ]
+ },
+ "sub-05/ieeg/sub-05_task-mer_acq-left_run-01_ieeg.vhdr": {
+  "n_times": 53392,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    52640,
+    53392
+   ]
+  ]
+ },
+ "sub-05/ieeg/sub-05_task-mer_acq-left_run-02_ieeg.vhdr": {
+  "n_times": 478272,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    476768,
+    478272
+   ]
+  ]
+ },
+ "sub-05/ieeg/sub-05_task-mer_acq-left_run-04_ieeg.vhdr": {
+  "n_times": 461728,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    460224,
+    461728
+   ]
+  ]
+ },
+ "sub-05/ieeg/sub-05_task-mer_acq-left_run-05_ieeg.vhdr": {
+  "n_times": 505344,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    504592,
+    505344
+   ]
+  ]
+ },
+ "sub-05/ieeg/sub-05_task-mer_acq-left_run-06_ieeg.vhdr": {
+  "n_times": 504592,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    503088,
+    504592
+   ]
+  ]
+ },
+ "sub-05/ieeg/sub-05_task-mer_acq-left_run-14_ieeg.vhdr": {
+  "n_times": 545200,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    544448,
+    545200
+   ]
+  ]
+ },
+ "sub-05/ieeg/sub-05_task-mer_acq-left_run-18_ieeg.vhdr": {
+  "n_times": 636944,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 752,
+   "Electrode2": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    636192,
+    636944
+   ]
+  ]
+ },
+ "sub-05/ieeg/sub-05_task-mer_acq-left_run-22_ieeg.vhdr": {
+  "n_times": 579040,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    577536,
+    579040
+   ]
+  ]
+ },
+ "sub-05/ieeg/sub-05_task-mer_acq-left_run-23_ieeg.vhdr": {
+  "n_times": 648224,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    646720,
+    648224
+   ]
+  ]
+ },
+ "sub-05/ieeg/sub-05_task-mer_acq-left_run-24_ieeg.vhdr": {
+  "n_times": 504592,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    503840,
+    504592
+   ]
+  ]
+ },
+ "sub-05/ieeg/sub-05_task-mer_acq-left_run-25_ieeg.vhdr": {
+  "n_times": 607616,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    606112,
+    607616
+   ]
+  ]
+ },
+ "sub-05/ieeg/sub-05_task-mer_acq-left_run-33_ieeg.vhdr": {
+  "n_times": 541440,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    539936,
+    541440
+   ]
+  ]
+ },
+ "sub-05/ieeg/sub-05_task-mer_acq-left_run-36_ieeg.vhdr": {
+  "n_times": 617392,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    615888,
+    617392
+   ]
+  ]
+ },
+ "sub-06/ieeg/sub-06_task-mer_acq-left_run-05_ieeg.vhdr": {
+  "n_times": 301552,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    300800,
+    301552
+   ]
+  ]
+ },
+ "sub-06/ieeg/sub-06_task-mer_acq-left_run-33_ieeg.vhdr": {
+  "n_times": 324864,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    324112,
+    324864
+   ]
+  ]
+ },
+ "sub-06/ieeg/sub-06_task-mer_acq-left_run-37_ieeg.vhdr": {
+  "n_times": 342912,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    341408,
+    342912
+   ]
+  ]
+ },
+ "sub-06/ieeg/sub-06_task-mer_acq-left_run-39_ieeg.vhdr": {
+  "n_times": 317344,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    316592,
+    317344
+   ]
+  ]
+ },
+ "sub-06/ieeg/sub-06_task-mer_acq-left_run-40_ieeg.vhdr": {
+  "n_times": 7520,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    6016,
+    7520
+   ]
+  ]
+ },
+ "sub-07/ieeg/sub-07_task-mer_acq-left_run-21_ieeg.vhdr": {
+  "n_times": 648224,
+  "sfreq": 12019.212279579571,
+  "nonfinite_per_channel": {
+   "Electrode1": 752,
+   "Electrode2": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    647472,
+    648224
+   ]
+  ]
+ },
+ "sub-07/ieeg/sub-07_task-mer_acq-left_run-30_ieeg.vhdr": {
+  "n_times": 23312,
+  "sfreq": 12018.715261686813,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    22560,
+    23312
+   ]
+  ]
+ },
+ "sub-08/ieeg/sub-08_task-mer_acq-left_run-02_ieeg.vhdr": {
+  "n_times": 82720,
+  "sfreq": 12019.082852169413,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504,
+   "Electrode2": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    81216,
+    82720
+   ]
+  ]
+ },
+ "sub-08/ieeg/sub-08_task-mer_acq-left_run-07_ieeg.vhdr": {
+  "n_times": 516624,
+  "sfreq": 12019.207544134653,
+  "nonfinite_per_channel": {
+   "Electrode1": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    515872,
+    516624
+   ]
+  ]
+ },
+ "sub-08/ieeg/sub-08_task-mer_acq-left_run-12_ieeg.vhdr": {
+  "n_times": 268464,
+  "sfreq": 12019.186072882561,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    266960,
+    268464
+   ]
+  ]
+ },
+ "sub-08/ieeg/sub-08_task-mer_acq-left_run-16_ieeg.vhdr": {
+  "n_times": 329376,
+  "sfreq": 12019.194268151254,
+  "nonfinite_per_channel": {
+   "Electrode1": 752,
+   "Electrode2": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    328624,
+    329376
+   ]
+  ]
+ },
+ "sub-08/ieeg/sub-08_task-mer_acq-left_run-31_ieeg.vhdr": {
+  "n_times": 541440,
+  "sfreq": 12019.20861314874,
+  "nonfinite_per_channel": {
+   "Electrode1": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    540688,
+    541440
+   ]
+  ]
+ },
+ "sub-08/ieeg/sub-08_task-mer_acq-right_run-05_ieeg.vhdr": {
+  "n_times": 481280,
+  "sfreq": 12019.205829378672,
+  "nonfinite_per_channel": {
+   "Electrode1": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    480528,
+    481280
+   ]
+  ]
+ },
+ "sub-08/ieeg/sub-08_task-mer_acq-right_run-08_ieeg.vhdr": {
+  "n_times": 612880,
+  "sfreq": 12019.211207675606,
+  "nonfinite_per_channel": {
+   "Electrode1": 752,
+   "Electrode2": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    612128,
+    612880
+   ]
+  ]
+ },
+ "sub-08/ieeg/sub-08_task-mer_acq-right_run-21_ieeg.vhdr": {
+  "n_times": 538432,
+  "sfreq": 12019.208519248845,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    536928,
+    538432
+   ]
+  ]
+ },
+ "sub-08/ieeg/sub-08_task-mer_acq-right_run-26_ieeg.vhdr": {
+  "n_times": 544448,
+  "sfreq": 12019.208766277798,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    542944,
+    544448
+   ]
+  ]
+ },
+ "sub-08/ieeg/sub-08_task-mer_acq-right_run-39_ieeg.vhdr": {
+  "n_times": 523392,
+  "sfreq": 12019.207877840381,
+  "nonfinite_per_channel": {
+   "Electrode2": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    522640,
+    523392
+   ]
+  ]
+ },
+ "sub-08/ieeg/sub-08_task-mer_acq-right_run-41_ieeg.vhdr": {
+  "n_times": 200784,
+  "sfreq": 12019.170981078198,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    200032,
+    200784
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-left_run-01_ieeg.vhdr": {
+  "n_times": 305370,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode3": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    304616,
+    305370
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-left_run-03_ieeg.vhdr": {
+  "n_times": 410176,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 754,
+   "Electrode2": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    409422,
+    410176
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-left_run-04_ieeg.vhdr": {
+  "n_times": 419224,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 754,
+   "Electrode3": 1508
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    417716,
+    419224
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-left_run-14_ieeg.vhdr": {
+  "n_times": 462956,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 754,
+   "Electrode2": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    462202,
+    462956
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-left_run-15_ieeg.vhdr": {
+  "n_times": 441844,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 754,
+   "Electrode2": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    441090,
+    441844
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-left_run-17_ieeg.vhdr": {
+  "n_times": 471250,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 754,
+   "Electrode3": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    470496,
+    471250
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-left_run-23_ieeg.vhdr": {
+  "n_times": 592644,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1508,
+   "Electrode2": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    591136,
+    592644
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-left_run-25_ieeg.vhdr": {
+  "n_times": 470496,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode3": 1508
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    468988,
+    470496
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-left_run-27_ieeg.vhdr": {
+  "n_times": 523276,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    522522,
+    523276
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-left_run-30_ieeg.vhdr": {
+  "n_times": 541372,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1508
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    539864,
+    541372
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-right_run-06_ieeg.vhdr": {
+  "n_times": 398112,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 754,
+   "Electrode2": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    397358,
+    398112
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-right_run-08_ieeg.vhdr": {
+  "n_times": 396604,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1508,
+   "Electrode2": 1508
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    395096,
+    396604
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-right_run-14_ieeg.vhdr": {
+  "n_times": 469742,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1508,
+   "Electrode2": 1508
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    468234,
+    469742
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-right_run-16_ieeg.vhdr": {
+  "n_times": 560222,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 754,
+   "Electrode3": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    559468,
+    560222
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-right_run-18_ieeg.vhdr": {
+  "n_times": 424502,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    423748,
+    424502
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-right_run-19_ieeg.vhdr": {
+  "n_times": 410176,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1508,
+   "Electrode3": 1508
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    408668,
+    410176
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-right_run-22_ieeg.vhdr": {
+  "n_times": 410176,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 754,
+   "Electrode3": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    409422,
+    410176
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-right_run-23_ieeg.vhdr": {
+  "n_times": 409422,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1508
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    407914,
+    409422
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-right_run-26_ieeg.vhdr": {
+  "n_times": 644670,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1508,
+   "Electrode2": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    643162,
+    644670
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-right_run-27_ieeg.vhdr": {
+  "n_times": 519506,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1508,
+   "Electrode3": 1508
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    517998,
+    519506
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-right_run-30_ieeg.vhdr": {
+  "n_times": 223184,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    222430,
+    223184
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-right_run-33_ieeg.vhdr": {
+  "n_times": 462202,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 754,
+   "Electrode2": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    461448,
+    462202
+   ]
+  ]
+ },
+ "sub-09/ieeg/sub-09_task-mer_acq-right_run-41_ieeg.vhdr": {
+  "n_times": 186992,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1508,
+   "Electrode3": 1508
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    185484,
+    186992
+   ]
+  ]
+ },
+ "sub-10/ieeg/sub-10_task-mer_acq-left_run-03_ieeg.vhdr": {
+  "n_times": 300048,
+  "sfreq": 12019.19078519681,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    298544,
+    300048
+   ]
+  ]
+ },
+ "sub-10/ieeg/sub-10_task-mer_acq-left_run-06_ieeg.vhdr": {
+  "n_times": 297040,
+  "sfreq": 12019.190172682424,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    295536,
+    297040
+   ]
+  ]
+ },
+ "sub-10/ieeg/sub-10_task-mer_acq-left_run-12_ieeg.vhdr": {
+  "n_times": 273728,
+  "sfreq": 12019.186691174962,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    272224,
+    273728
+   ]
+  ]
+ },
+ "sub-10/ieeg/sub-10_task-mer_acq-left_run-13_ieeg.vhdr": {
+  "n_times": 277488,
+  "sfreq": 12019.187292132121,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504,
+   "Electrode2": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    275984,
+    277488
+   ]
+  ]
+ },
+ "sub-10/ieeg/sub-10_task-mer_acq-left_run-16_ieeg.vhdr": {
+  "n_times": 354944,
+  "sfreq": 12019.196908899477,
+  "nonfinite_per_channel": {
+   "Electrode1": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    354192,
+    354944
+   ]
+  ]
+ },
+ "sub-10/ieeg/sub-10_task-mer_acq-left_run-22_ieeg.vhdr": {
+  "n_times": 539936,
+  "sfreq": 12019.208519248845,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    538432,
+    539936
+   ]
+  ]
+ },
+ "sub-10/ieeg/sub-10_task-mer_acq-left_run-26_ieeg.vhdr": {
+  "n_times": 248912,
+  "sfreq": 12019.182555262287,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    248160,
+    248912
+   ]
+  ]
+ },
+ "sub-10/ieeg/sub-10_task-mer_acq-left_run-40_ieeg.vhdr": {
+  "n_times": 457968,
+  "sfreq": 12019.204511891681,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    456464,
+    457968
+   ]
+  ]
+ },
+ "sub-10/ieeg/sub-10_task-mer_acq-right_run-05_ieeg.vhdr": {
+  "n_times": 178224,
+  "sfreq": 12019.163118099901,
+  "nonfinite_per_channel": {
+   "Electrode1": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    177472,
+    178224
+   ]
+  ]
+ },
+ "sub-10/ieeg/sub-10_task-mer_acq-right_run-12_ieeg.vhdr": {
+  "n_times": 533168,
+  "sfreq": 12019.20826788606,
+  "nonfinite_per_channel": {
+   "Electrode1": 752,
+   "Electrode2": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    532416,
+    533168
+   ]
+  ]
+ },
+ "sub-10/ieeg/sub-10_task-mer_acq-right_run-32_ieeg.vhdr": {
+  "n_times": 583552,
+  "sfreq": 12019.210192111783,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504,
+   "Electrode2": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    582048,
+    583552
+   ]
+  ]
+ },
+ "sub-10/ieeg/sub-10_task-mer_acq-right_run-33_ieeg.vhdr": {
+  "n_times": 356448,
+  "sfreq": 12019.197122701902,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    354944,
+    356448
+   ]
+  ]
+ },
+ "sub-10/ieeg/sub-10_task-mer_acq-right_run-39_ieeg.vhdr": {
+  "n_times": 469248,
+  "sfreq": 12019.20510562756,
+  "nonfinite_per_channel": {
+   "Electrode1": 2256,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    466992,
+    469248
+   ]
+  ]
+ },
+ "sub-10/ieeg/sub-10_task-mer_acq-right_run-44_ieeg.vhdr": {
+  "n_times": 240640,
+  "sfreq": 12019.180895408505,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    239888,
+    240640
+   ]
+  ]
+ },
+ "sub-11/ieeg/sub-11_task-mer_acq-left_run-05_ieeg.vhdr": {
+  "n_times": 597088,
+  "sfreq": 12019.210712172895,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    595584,
+    597088
+   ]
+  ]
+ },
+ "sub-11/ieeg/sub-11_task-mer_acq-left_run-07_ieeg.vhdr": {
+  "n_times": 600848,
+  "sfreq": 12019.210839298948,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    600096,
+    600848
+   ]
+  ]
+ },
+ "sub-11/ieeg/sub-11_task-mer_acq-left_run-16_ieeg.vhdr": {
+  "n_times": 648224,
+  "sfreq": 12019.212301248792,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    647472,
+    648224
+   ]
+  ]
+ },
+ "sub-12/ieeg/sub-12_task-mer_acq-left_run-05_ieeg.vhdr": {
+  "n_times": 643712,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    642208,
+    643712
+   ]
+  ]
+ },
+ "sub-12/ieeg/sub-12_task-mer_acq-left_run-06_ieeg.vhdr": {
+  "n_times": 251168,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    249664,
+    251168
+   ]
+  ]
+ },
+ "sub-12/ieeg/sub-12_task-mer_acq-left_run-11_ieeg.vhdr": {
+  "n_times": 602352,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    600848,
+    602352
+   ]
+  ]
+ },
+ "sub-12/ieeg/sub-12_task-mer_acq-left_run-15_ieeg.vhdr": {
+  "n_times": 432400,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    431648,
+    432400
+   ]
+  ]
+ },
+ "sub-12/ieeg/sub-12_task-mer_acq-left_run-16_ieeg.vhdr": {
+  "n_times": 473008,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    471504,
+    473008
+   ]
+  ]
+ },
+ "sub-12/ieeg/sub-12_task-mer_acq-left_run-20_ieeg.vhdr": {
+  "n_times": 457968,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    457216,
+    457968
+   ]
+  ]
+ },
+ "sub-12/ieeg/sub-12_task-mer_acq-left_run-40_ieeg.vhdr": {
+  "n_times": 27824,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    27072,
+    27824
+   ]
+  ]
+ },
+ "sub-12/ieeg/sub-12_task-mer_acq-right_run-05_ieeg.vhdr": {
+  "n_times": 236880,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 752,
+   "Electrode3": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    236128,
+    236880
+   ]
+  ]
+ },
+ "sub-12/ieeg/sub-12_task-mer_acq-right_run-06_ieeg.vhdr": {
+  "n_times": 314336,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    313584,
+    314336
+   ]
+  ]
+ },
+ "sub-12/ieeg/sub-12_task-mer_acq-right_run-15_ieeg.vhdr": {
+  "n_times": 357200,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    356448,
+    357200
+   ]
+  ]
+ },
+ "sub-12/ieeg/sub-12_task-mer_acq-right_run-16_ieeg.vhdr": {
+  "n_times": 409088,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504,
+   "Electrode2": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    407584,
+    409088
+   ]
+  ]
+ },
+ "sub-12/ieeg/sub-12_task-mer_acq-right_run-21_ieeg.vhdr": {
+  "n_times": 369232,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    367728,
+    369232
+   ]
+  ]
+ },
+ "sub-12/ieeg/sub-12_task-mer_acq-right_run-24_ieeg.vhdr": {
+  "n_times": 478272,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    476768,
+    478272
+   ]
+  ]
+ },
+ "sub-12/ieeg/sub-12_task-mer_acq-right_run-42_ieeg.vhdr": {
+  "n_times": 127840,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    127088,
+    127840
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-02_ieeg.vhdr": {
+  "n_times": 177944,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 754,
+   "Electrode3": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    177190,
+    177944
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-03_ieeg.vhdr": {
+  "n_times": 116870,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 754,
+   "Electrode2": 1508
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    115362,
+    116870
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-05_ieeg.vhdr": {
+  "n_times": 265408,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 754,
+   "Electrode2": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    264654,
+    265408
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-08_ieeg.vhdr": {
+  "n_times": 274456,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1508,
+   "Electrode3": 1508
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    272948,
+    274456
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-12_ieeg.vhdr": {
+  "n_times": 278226,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 754,
+   "Electrode3": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    277472,
+    278226
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-13_ieeg.vhdr": {
+  "n_times": 266916,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    266162,
+    266916
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-14_ieeg.vhdr": {
+  "n_times": 288782,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1508,
+   "Electrode3": 1508
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    287274,
+    288782
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-17_ieeg.vhdr": {
+  "n_times": 390572,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 754,
+   "Electrode2": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    389818,
+    390572
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-18_ieeg.vhdr": {
+  "n_times": 650702,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 754,
+   "Electrode3": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    649948,
+    650702
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-19_ieeg.vhdr": {
+  "n_times": 398112,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1508,
+   "Electrode3": 1508
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    396604,
+    398112
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-22_ieeg.vhdr": {
+  "n_times": 557206,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1508,
+   "Electrode3": 1508
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    555698,
+    557206
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-30_ieeg.vhdr": {
+  "n_times": 306878,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 754,
+   "Electrode3": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    306124,
+    306878
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-41_ieeg.vhdr": {
+  "n_times": 444106,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 754,
+   "Electrode3": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    443352,
+    444106
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-42_ieeg.vhdr": {
+  "n_times": 397358,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 754,
+   "Electrode3": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    396604,
+    397358
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-44_ieeg.vhdr": {
+  "n_times": 389818,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 754,
+   "Electrode2": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    389064,
+    389818
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-left_run-46_ieeg.vhdr": {
+  "n_times": 166634,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 754,
+   "Electrode2": 754
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    165880,
+    166634
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-right_run-01_ieeg.vhdr": {
+  "n_times": 107679,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 753,
+   "Electrode3": 753
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    106926,
+    107679
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-right_run-02_ieeg.vhdr": {
+  "n_times": 316260,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1506,
+   "Electrode2": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    314754,
+    316260
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-right_run-03_ieeg.vhdr": {
+  "n_times": 292164,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 753,
+   "Electrode3": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    290658,
+    292164
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-right_run-04_ieeg.vhdr": {
+  "n_times": 292164,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode3": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    290658,
+    292164
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-right_run-06_ieeg.vhdr": {
+  "n_times": 394572,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 753,
+   "Electrode3": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    393066,
+    394572
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-right_run-07_ieeg.vhdr": {
+  "n_times": 476649,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 753,
+   "Electrode3": 753
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    475896,
+    476649
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-right_run-11_ieeg.vhdr": {
+  "n_times": 299694,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode3": 753
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    298941,
+    299694
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-right_run-14_ieeg.vhdr": {
+  "n_times": 570021,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 753
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    569268,
+    570021
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-right_run-24_ieeg.vhdr": {
+  "n_times": 338850,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 1506,
+   "Electrode3": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    337344,
+    338850
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-right_run-31_ieeg.vhdr": {
+  "n_times": 20331,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 1506,
+   "Electrode2": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    18825,
+    20331
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-right_run-34_ieeg.vhdr": {
+  "n_times": 399090,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode1": 753
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    398337,
+    399090
+   ]
+  ]
+ },
+ "sub-13/ieeg/sub-13_task-mer_acq-right_run-37_ieeg.vhdr": {
+  "n_times": 48192,
+  "sfreq": 12000.00000048,
+  "nonfinite_per_channel": {
+   "Electrode2": 753,
+   "Electrode3": 1506
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    46686,
+    48192
+   ]
+  ]
+ },
+ "sub-14/ieeg/sub-14_task-mer_acq-right_run-04_ieeg.vhdr": {
+  "n_times": 309824,
+  "sfreq": 12019.191953885984,
+  "nonfinite_per_channel": {
+   "Electrode1": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    309072,
+    309824
+   ]
+  ]
+ },
+ "sub-14/ieeg/sub-14_task-mer_acq-right_run-20_ieeg.vhdr": {
+  "n_times": 549712,
+  "sfreq": 12019.208948299138,
+  "nonfinite_per_channel": {
+   "Electrode1": 752,
+   "Electrode2": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    548960,
+    549712
+   ]
+  ]
+ },
+ "sub-14/ieeg/sub-14_task-mer_acq-right_run-21_ieeg.vhdr": {
+  "n_times": 625664,
+  "sfreq": 12019.211586164585,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504,
+   "Electrode2": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    624160,
+    625664
+   ]
+  ]
+ },
+ "sub-14/ieeg/sub-14_task-mer_acq-right_run-23_ieeg.vhdr": {
+  "n_times": 536928,
+  "sfreq": 12019.208457130455,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    535424,
+    536928
+   ]
+  ]
+ },
+ "sub-14/ieeg/sub-14_task-mer_acq-right_run-29_ieeg.vhdr": {
+  "n_times": 445936,
+  "sfreq": 12019.20388926361,
+  "nonfinite_per_channel": {
+   "Electrode2": 1504,
+   "Electrode3": 1504
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    444432,
+    445936
+   ]
+  ]
+ },
+ "sub-14/ieeg/sub-14_task-mer_acq-right_run-33_ieeg.vhdr": {
+  "n_times": 459472,
+  "sfreq": 12019.204598568449,
+  "nonfinite_per_channel": {
+   "Electrode1": 1504,
+   "Electrode2": 752
+  },
+  "all_nonfinite": [],
+  "n_spans": 1,
+  "spans": [
+   [
+    457968,
+    459472
+   ]
+  ]
+ }
+}

@@ -1,3 +1,7 @@
+1.0.3 2026-10-30
+
+  - Crop NaN-padded recordings to their shortest channel
+
 1.0.2 2026-10-16
   - Restore the descriptive Name from v1.0.0 after the v1.0.1 naming regression.
 1.0.0 2026-10-08
