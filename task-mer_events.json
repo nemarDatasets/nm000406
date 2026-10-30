@@ -1,0 +1,19 @@
+{
+    "onset": {
+        "Description": "Start of the event in seconds from the first sample of the recording (BAD_nan: index of the first NaN sample / sampling frequency).",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event (BAD_nan: number of samples in the NaN run / sampling frequency).",
+        "Units": "s"
+    },
+    "trial_type": {
+        "Description": "Event type.",
+        "Levels": {
+            "BAD_nan": "Not-a-number (NaN) samples in the signal file: from onset, for duration seconds, at least one channel that is not NaN throughout holds NaN instead of a value (channels per run in code/fix-20261019_nan_spans.tsv). Added on 19 Oct 2026 from a scan of every sample of the data; the data files are unchanged. MNE-BIDS reads this row as an annotation whose name starts with BAD, so MNE can leave these samples out (reject_by_annotation)."
+        }
+    },
+    "sample": {
+        "Description": "Index (0-based) of the first sample of the event in the data file."
+    }
+}

@@ -61,3 +61,15 @@ Statement from Bellino et al. (2019), section 2.1 "Database" (verbatim), describ
 Bellino GM, Schiaffino L, Battisti M, Guerrero J, Rosado-Muñoz A (2019). Optimization of the KNN Supervised Classification Algorithm as a Support Tool for the Implantation of Deep Brain Stimulators in Patients with Parkinson's Disease. Entropy 21(4):346. https://doi.org/10.3390/e21040346 (PMC7514830).
 
 The Zenodo record 7352058 itself contains no ethics statement. Coverage of the recordings in this release by La Fe approval 2015/0824 is attested by the depositor (Bruno Aristimunha, 2026-10-08).
+
+## NaN samples in the signal files (checked 19 Oct 2026)
+
+Some signal files store NaN (not-a-number) samples. On 19 Oct 2026 every sample of all 830 recordings was checked (each file read whole with MNE, in time chunks, in a scan Job); 226 recordings hold NaN samples. The data files are unchanged: no sample was replaced, interpolated or cropped, and `raw.get_data()` still returns the NaN values.
+
+Here the NaN samples are the padding of channels that are shorter than the other channels of their file (see Layout: every channel is written from its first sample and shorter channels are NaN after their last sample), so each run of NaN samples sits at the end of the recording.
+
+In 226 recordings channels are NaN in part of the recording: 226 runs of consecutive NaN samples (226 at the end; per recording a median 0.23% of the samples; channels most often involved: Electrode2 (152 recordings), Electrode3 (116 recordings), Electrode1 (112 recordings)). Each run is now a row of the recording's `events.tsv` with `trial_type` `BAD_nan`, `onset` = first NaN sample / sampling frequency and `duration` = number of NaN samples / sampling frequency (`sample` = index of the first NaN sample, 0-based). 226 events.tsv files were created for this (they hold only BAD_nan rows; these recordings had no events.tsv). `BAD_nan` is defined in `task-mer_events.json`.
+
+MNE-BIDS (`read_raw_bids`) turns every events.tsv row into an annotation, and MNE treats annotations whose name starts with `BAD` as bad spans: `raw.get_data(reject_by_annotation='omit')` leaves these samples out, and `mne.Epochs(..., reject_by_annotation=True)` (the default) drops epochs that overlap them. An annotation covers all channels, so a span in which only one channel is NaN is left out for every channel; to keep the other channels, crop or pick channels instead. Filtering does not skip BAD spans by default, so replace or crop NaN samples before filtering.
+
+Per NaN run and per all-NaN channel (recording, sample range, onset and duration in seconds, channels): `code/fix-20261019_nan_spans.tsv`. `code/fix-20261018_nan_scan.json` is the earlier, partial scan of 18 Oct 2026 (it skipped the largest recordings and lists at most 200 spans per recording); it is superseded by the table.
