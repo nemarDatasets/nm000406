@@ -1,9 +1,3 @@
-1.0.3 2026-10-18
-  - README: section 'NaN samples in the signal files' (166 of 590 scanned recordings hold NaN samples; data files unchanged); details in code/fix-20261018_nan_scan.json.
-  - dataset_description.json: Version 1.0.2 -> 1.0.3.
-  - events.tsv: 226 BAD_nan rows (one per run of NaN samples) in 226 recordings (226 events.tsv created, 0 extended; existing rows unchanged); BAD_nan defined in events.json (1 created, 0 extended).
-  - README: section 'NaN samples in the signal files' rewritten from a scan of all 830 recordings (19 Oct 2026; replaces the partial 18 Oct scan); code/fix-20261019_nan_spans.tsv per NaN run and all-NaN channel. Data files unchanged.
-
 1.0.2 2026-10-16
   - Restore the descriptive Name from v1.0.0 after the v1.0.1 naming regression.
 1.0.0 2026-10-08
