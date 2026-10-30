@@ -14,7 +14,7 @@
   "MiscChannelCount": 0,
   "TriggerChannelCount": 0,
   "RecordingType": "continuous",
-  "RecordingDuration": 14.828320262508283,
-  "RecordingDescription": "Release file data/Right_lobe/Right_lobe_STN_IN/P10R_STN_IN/00640.mat; depth label (file name) 00640; STN-IN. Channel lengths in samples: [177472, 178224, 178224]. Channels differ in length; shorter channels are NaN after their last sample (alignment of channels of unequal length is not documented; all are written from their first sample).",
+  "RecordingDuration": 14.765753510345801,
+  "RecordingDescription": "Release file data/Right_lobe/Right_lobe_STN_IN/P10R_STN_IN/00640.mat; depth label (file name) 00640; STN-IN. Channel lengths in samples: [177472, 178224, 178224]. Channels differ in length in the release. Since Oct 2026 this file is cropped to the shortest channel (177472 samples; 752 samples of the longer channels after that point are left out; they remain in the release .mat in sourcedata). All channels are written from their first sample (alignment of channels of unequal length is not documented).",
   "ElectricalStimulation": false
 }

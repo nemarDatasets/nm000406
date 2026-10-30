@@ -19,13 +19,13 @@ ieeg/sub-07_task-mer_acq-left_run-17_ieeg.vhdr	left	IN	04102	data/Left_lobe/Left
 ieeg/sub-07_task-mer_acq-left_run-18_ieeg.vhdr	left	IN	04302	data/Left_lobe/Left_lobe_STN_IN/P7L_STN_IN/04302.mat	2018368	12019.224887664945
 ieeg/sub-07_task-mer_acq-left_run-19_ieeg.vhdr	left	IN	04502	data/Left_lobe/Left_lobe_STN_IN/P7L_STN_IN/04502.mat	1485952	12019.22275401759
 ieeg/sub-07_task-mer_acq-left_run-20_ieeg.vhdr	left	IN	04701	data/Left_lobe/Left_lobe_STN_IN/P7L_STN_IN/04701.mat	577536	12019.210031366716
-ieeg/sub-07_task-mer_acq-left_run-21_ieeg.vhdr	left	IN	04901	data/Left_lobe/Left_lobe_STN_IN/P7L_STN_IN/04901.mat	648224	12019.212279268919
+ieeg/sub-07_task-mer_acq-left_run-21_ieeg.vhdr	left	IN	04901	data/Left_lobe/Left_lobe_STN_IN/P7L_STN_IN/04901.mat	647472	12019.212279268919
 ieeg/sub-07_task-mer_acq-left_run-22_ieeg.vhdr	left	IN	05101	data/Left_lobe/Left_lobe_STN_IN/P7L_STN_IN/05101.mat	1660416	12019.223603903858
 ieeg/sub-07_task-mer_acq-left_run-23_ieeg.vhdr	left	IN	05301	data/Left_lobe/Left_lobe_STN_IN/P7L_STN_IN/05301.mat	918192	12019.217752484077
 ieeg/sub-07_task-mer_acq-left_run-24_ieeg.vhdr	left	OUT	05501	data/Left_lobe/Left_lobe_STN_OUT/P7L_STN_OUT/05501.mat	1420528	12019.222381489359
-ieeg/sub-07_task-mer_acq-left_run-25_ieeg.vhdr	left	OUT	05701	data/Left_lobe/Left_lobe_STN_OUT/P7L_STN_OUT/05701.mat	906912	12019.21758967181
+ieeg/sub-07_task-mer_acq-left_run-25_ieeg.vhdr	left	OUT	05701	data/Left_lobe/Left_lobe_STN_OUT/P7L_STN_OUT/05701.mat	906160	12019.21758967181
 ieeg/sub-07_task-mer_acq-left_run-26_ieeg.vhdr	left	OUT	05901	data/Left_lobe/Left_lobe_STN_OUT/P7L_STN_OUT/05901.mat	791856	12019.215664034075
 ieeg/sub-07_task-mer_acq-left_run-27_ieeg.vhdr	left	OUT	06101	data/Left_lobe/Left_lobe_STN_OUT/P7L_STN_OUT/06101.mat	1164096	12019.220517642181
 ieeg/sub-07_task-mer_acq-left_run-28_ieeg.vhdr	left	OUT	06301	data/Left_lobe/Left_lobe_STN_OUT/P7L_STN_OUT/06301.mat	1114464	12019.220057826677
 ieeg/sub-07_task-mer_acq-left_run-29_ieeg.vhdr	left	OUT	06501	data/Left_lobe/Left_lobe_STN_OUT/P7L_STN_OUT/06501.mat	3352416	12019.227257345889
-ieeg/sub-07_task-mer_acq-left_run-30_ieeg.vhdr	left	OUT	07001	data/Left_lobe/Left_lobe_STN_OUT/P7L_STN_OUT/07001.mat	23312	12018.715261308478
+ieeg/sub-07_task-mer_acq-left_run-30_ieeg.vhdr	left	OUT	07001	data/Left_lobe/Left_lobe_STN_OUT/P7L_STN_OUT/07001.mat	22560	12018.715261308478
