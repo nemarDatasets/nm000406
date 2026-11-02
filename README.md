@@ -41,8 +41,9 @@ which of its 14 patients are those 9, so these settings are not copied into the 
 
 Updated in version 1.0.3 by the depositors of this NEMAR copy (the published text above is kept unchanged; these items replace or extend it):
 
-- In 226 of the 830 files the three channels have different lengths (differences are whole 752-sample blocks). The
-  release does not document how channels of unequal length line up. Every channel is written from its first sample.
+- In 226 of the 830 files the three channels have different lengths. The differences are whole blocks of 752, 753
+  or 754 samples, depending on the file (the published text above says 752 only; checked against
+  `code/fix-20261030_crop_manifest.tsv`, Nov 2026). The release does not document how channels of unequal length line up. Every channel is written from its first sample.
   Since Oct 2026 these 226 files are cropped to their shortest channel (see 'Cropped recordings' below), so no file
   holds NaN samples. `channels.tsv` gives each channel's source length (`source_n_samples`), and the sidecar's
   `RecordingDescription` repeats the lengths.
