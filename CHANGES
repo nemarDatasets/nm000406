@@ -1,3 +1,18 @@
+1.0.3 2026-10-30
+
+  - Recorded data changed: the 226 BrainVision recordings (.eeg) whose three channels had different lengths, and
+    which were NaN-padded at the end, are cropped to their shortest channel. Each new .eeg is a byte prefix of the
+    old one (kept samples bit-identical, checked for all 226). Left out: up to 2256 time points per file (257,384
+    in all); counted per channel, 360,481 real samples of the longer channels (at most 3,760 per file), which
+    remain in the release .mat files in sourcedata/. Per-file old/new lengths, old annex key and new SHA-256:
+    code/fix-20261030_crop_manifest.tsv.
+  - Sidecars: RecordingDuration and RecordingDescription of the 226 ieeg.json, n_samples in the 14 scans.tsv and
+    the scans.json description give the cropped lengths (code/fix-20261030_crop_text.py).
+  - code/: crop and text scripts (fix-20261030_crop406.py, fix-20261030_crop_text.py), S3 fetch helper, the NaN
+    scans of the uncropped files and the crop manifest.
+  - README: the published text is kept unchanged; a paragraph and a section "Cropped recordings" added after it
+    describe the crop.
+
 1.0.2 2026-10-16
   - Restore the descriptive Name from v1.0.0 after the v1.0.1 naming regression.
 1.0.0 2026-10-08

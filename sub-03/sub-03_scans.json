@@ -16,7 +16,7 @@
     "Description": "Path of the source .mat inside the release data.zip (copy in sourcedata/)"
   },
   "n_samples": {
-    "Description": "Samples in the BrainVision file (= longest channel)"
+    "Description": "Samples in the BrainVision file (= the shortest channel: since Oct 2026 the files whose channels differ in length are cropped to the shortest channel; per-channel source lengths are in channels.tsv, source_n_samples)"
   },
   "sampling_frequency": {
     "Description": "Sampling frequency from the release time vector, (N-1)/time[-1]",
