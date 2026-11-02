@@ -33,12 +33,19 @@ which of its 14 patients are those 9, so these settings are not copied into the 
 - Sampling frequency per run is computed from the release time vector as (N-1)/time[-1]: 12000 Hz in 432 files and
   about 12019 Hz in the other 398 (exact value per run in the sidecar and in `scans.tsv`).
 - In 226 of the 830 files the three channels have different lengths (differences are whole 752-sample blocks). The
+  release does not document how channels of unequal length line up. Every channel is written from its first sample, and
+  shorter channels are NaN after their last sample. `channels.tsv` gives each channel's source length
+  (`source_n_samples`), and the sidecar's `RecordingDescription` repeats the lengths.
+- There are no electrode coordinates in the release. `electrodes.tsv` (per side) lists the three channels with `n/a`
+  coordinates.
+
+Updated in version 1.0.3 by the depositors of this NEMAR copy (the published text above is kept unchanged; these items replace or extend it):
+
+- In 226 of the 830 files the three channels have different lengths (differences are whole 752-sample blocks). The
   release does not document how channels of unequal length line up. Every channel is written from its first sample.
   Since Oct 2026 these 226 files are cropped to their shortest channel (see 'Cropped recordings' below), so no file
   holds NaN samples. `channels.tsv` gives each channel's source length (`source_n_samples`), and the sidecar's
   `RecordingDescription` repeats the lengths.
-- There are no electrode coordinates in the release. `electrodes.tsv` (per side) lists the three channels with `n/a`
-  coordinates.
 
 ## What was converted, and how
 Each `.mat` (struct `signal`: `channel`, `data` int16, `time`) became one BrainVision run (IEEE float32: int16 values
@@ -65,17 +72,18 @@ The Zenodo record 7352058 itself contains no ethics statement. Coverage of the r
 
 ## Cropped recordings (Oct 2026)
 
-In 226 recordings the release channels have different lengths. These files used to keep every channel at its full
-length and pad the shorter channels with NaN (not-a-number) samples at the end, marked by `BAD_nan` rows in
-`events.tsv` (Oct 2026). Following an external review (J. Gadonneix, Oct 2026, issue #4 of this repository), each of
+In 226 recordings the release channels have different lengths. Up to version 1.0.2 these files kept every channel at
+its full length and padded the shorter channels with NaN (not-a-number) samples at the end. Following an external review (J. Gadonneix, Oct 2026, issue #4 of this repository), each of
 these 226 files is now cropped to its shortest channel: the file keeps the first N samples of every channel, where N is
 the length of the shortest channel, so no NaN sample remains. The kept samples are unchanged bit for bit (the new
 `.eeg` is a byte prefix of the old one; every file was checked by reading it with MNE). The samples of the longer
-channels after that point are left out of the BIDS files: 2256 samples per file at most, 257384 samples in
-total. They remain in the release `.mat` files in `sourcedata/`, and each channel's source length is in
+channels after that point are left out of the BIDS files: each file is shortened by at most 2256 time points
+(257,384 time points over the 226 files); counted per channel, 360,481 real (non-NaN) samples of the longer channels
+are left out (at most 3,760 per file; per-file lengths in the crop manifest). They remain in the release `.mat` files in `sourcedata/`, and each channel's source length is in
 `channels.tsv` (`source_n_samples`).
 
-The 226 `events.tsv` files that held only the `BAD_nan` rows, and `task-mer_events.json`, are removed. `RecordingDuration`
+An unreleased working branch (Oct 2026) had marked the padding with `BAD_nan` rows in 226 `events.tsv` files and a
+`task-mer_events.json`; those files were never part of a published version and are not added here. `RecordingDuration`
 in the sidecars and `n_samples` in `scans.tsv` give the cropped lengths. Per recording (old and new length, samples left
 out, channels involved, old annex key, new size and SHA-256): `code/fix-20261030_crop_manifest.tsv`; code:
 `code/fix-20261030_crop406.py` (data) and `code/fix-20261030_crop_text.py` (sidecars). `code/fix-20261019_nan_spans.tsv`
